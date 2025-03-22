@@ -44,6 +44,8 @@ sudo cp SolGraphX.sh /usr/bin/SolGraphX
 ```
 
 ## Uso
+Es importante ejecutar el script desde la raíz del proyecto, ya que busca las carpetas `scripts/` y `src/` para analizar los contratos.
+
 Ejecuta el script y sigue las instrucciones en pantalla:
 
 ```bash
@@ -56,7 +58,8 @@ Selecciona el formato de salida y espera a que se generen los gráficos.
 Los gráficos generados se almacenarán en la carpeta `graphs/` con el formato seleccionado.
 
 ## Contacto
-Este script fue desarrollado por **HackSyndicate S.A.S.**.
+Este script fue desarrollado por **HackSyndicate S.A.S.**. 
+
 
 
 
